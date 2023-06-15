@@ -16,6 +16,7 @@ buildscript {
     //  ! To check the compatibility and released date of kotlin plugins,
     //  ! visit https://plugins.jetbrains.com/plugin/6954-kotlin/versions/eap
 
+    
     val gradlePluginVersionList = mapOf(
         "as" to mapOf(
             "abbr" to mapOf(
